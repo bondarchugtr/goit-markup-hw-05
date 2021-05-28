@@ -452,6 +452,11 @@ body{
     display: flex;
     justify-content: space-between;
     padding-top: 16px;
+
+}
+
+.item-card{
+    display: block;
     padding-bottom: 30px;
     padding-left: 32px;
     padding-right: 32px;
